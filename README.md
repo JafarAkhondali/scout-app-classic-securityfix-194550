@@ -5,7 +5,7 @@
 
 The 2012 site can be found here:
 
-* **[Scout-App.io/scout-app](http://Scout-App.io/scout-app)**
+* **[Scout-App.io/classic](http://Scout-App.io/classic)**
 
 ![Screenshot](images/thumb.jpg)
 
